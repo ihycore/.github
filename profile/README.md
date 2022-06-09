@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000?lines=Hi%2C+welcome+on+my+organisation+page%2C;to+visit+my+github+repo%2C+click+here%3A;https%3A%2F%2Fgithub.com%2FHyCore;Have+a+nice+day+!)](https://github.com/HyCore)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi%2C+welcome+on+my+organisation+page%2C;to+visit+my+github+repo%2C+click+here%3A;https%3A%2F%2Fgithub.com%2FHyCore;Have+a+nice+day+!)](https://github.com/HyCore)
